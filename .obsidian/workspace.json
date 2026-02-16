@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "8fe6a63df09e63c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e144283d92e022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578dc4b13561c2ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab/Lab 6 - Agent Flows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab 6 - Agent Flows"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89ca1f946adbdd85",
+    "type": "split",
+    "children": [
+      {
+        "id": "97c1b799589b503f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714d1e5f383a3b4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "849358333d1b93e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ab2bd407865f182",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4a081732fe9dffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eeb9693735f40b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba2927433832ba0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lab/Lab 6 - Agent Flows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lab 6 - Agent Flows"
+            }
+          },
+          {
+            "id": "4b50a5dc47ca32ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lab/Lab 6 - Agent Flows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lab 6 - Agent Flows"
+            }
+          },
+          {
+            "id": "d97f5a140cc42c11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0ce57b95938fb7d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "862057f7f725a3d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lab/Lab 6 - Agent Flows.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lab 6 - Agent Flows"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "714d1e5f383a3b4e",
+  "lastOpenFiles": [
+    "README.md",
+    "Lab/Lab 5 - Prompt Actions & Connector.md",
+    "Lab/Lab 4.2 - Adaptive cards.md",
+    "Lab/Lab 4.1 - First Topic.md",
+    "Lab/Lab 3 - Aggiungere la Knowledge Base.md",
+    "Lab/Lab 2 - Instructions.md",
+    "Lab/Lab 1 - Setup & First Agent.md",
+    "Lab/Lab 11 - ALM.md",
+    "Lab/Lab 10 - Publishing & Analytics.md",
+    "Lab/Lab 7 - Model Context Protocol.md",
+    "Lab/Lab 6 - Agent Flows.md"
+  ]
+}
